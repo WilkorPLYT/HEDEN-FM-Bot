@@ -9,10 +9,6 @@
 
 <br>
 
-<img src="https://i.imgur.com/your-logo.png" alt="HEDEN FM Logo" width="200">
-
-<br>
-
 ### 🎵 Profesjonalny bot radiowy Discord z automatycznym wyświetlaniem aktualnie granej piosenki
 
 <br>
@@ -201,6 +197,8 @@ Ten projekt jest własnością autora. Kod źródłowy nie jest publicznie dost�
 
 Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
+</div>
+
 <br>
 
 ---
@@ -209,13 +207,18 @@ Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
 ## 👨‍💻 Autor
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/Stworzony%20przez-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-blueviolet?style=for-the-badge" alt="DrWilkor">
 
-<br>
+<br><br>
 
 Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** dla **HEDEN Cargo Sp. z o.o.**
 
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilkorPLYT)
+[![Discord](https://img.shields.io/badge/Discord-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608)
 
 <br>
 
@@ -224,9 +227,5 @@ Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** dla **HEDEN Cargo 
 <br>
 
 **⭐ Jeśli podoba Ci się ten projekt, zostaw gwiazdkę! ⭐**
-
-<br>
-
-<img src="https://img.shields.io/github/stars/WilkorPLYT/heden-fm-bot?style=social" alt="Stars">
 
 </div>
