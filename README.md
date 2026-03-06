@@ -2,10 +2,10 @@
 
 # 📻 HEDEN FM - Discord Radio Bot
 
-![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Discord.py](https://img.shields.io/badge/discord.py-2.7.1-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Closed%20Source-red?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Discord.py](https://img.shields.io/badge/discord.py-2.7.1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](https://discord.com/users/446740090757316608)
+[![License](https://img.shields.io/badge/License-Closed%20Source-red?style=for-the-badge)](#-licencja)
 
 <br>
 
@@ -125,11 +125,11 @@ Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)](https://docs.aiohttp.org/)
 
 </div>
 
@@ -209,9 +209,9 @@ Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Stworzony%20przez-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-blueviolet?style=for-the-badge" alt="DrWilkor">
+[![Stworzony przez](https://img.shields.io/badge/Stworzony%20przez-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
 
-<br><br>
+<br>
 
 Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** dla **HEDEN Cargo Sp. z o.o.**
 
