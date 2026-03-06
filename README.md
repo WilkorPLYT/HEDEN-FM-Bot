@@ -1,16 +1,15 @@
 <div align="center">
 
-# � HEDEN Cargo - Discord Bot
+# 📻 HEDEN FM - Discord Radio Bot
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Discord.js](https://img.shields.io/badge/Discord.js-14+-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://discord.com/users/446740090757316608)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-licencja)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Discord.py](https://img.shields.io/badge/discord.py-2.7.1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](https://discord.com/users/446740090757316608)
+[![License](https://img.shields.io/badge/License-Closed%20Source-red?style=for-the-badge)](#-licencja)
 
 <br>
 
-### 🚚 Zaawansowany bot Discord do zarządzania zleceniami spedycyjnymi i obsługi społeczności HEDEN Cargo
+### 🎵 Profesjonalny bot radiowy Discord z automatycznym wyświetlaniem aktualnie granej piosenki
 
 <br>
 
@@ -20,6 +19,12 @@
 [📞 Kontakt](#-kontakt)
 
 <br>
+
+---
+
+**🔒 Ten projekt jest Closed Source**
+
+Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 
 ---
 
@@ -33,40 +38,40 @@
 <tr>
 <td>
 
-### � Zarządzanie Zleceniami
-- ✅ System zlecen spedycyjnych
-- ✅ Akceptacja/odrzucanie zleceń
-- ✅ Tracking statusu zleceń
-- ✅ Komentarze do zleceń
+### 🎵 Audio & Streaming
+- ✅ Wysokiej jakości stream radiowy
+- ✅ Automatyczne buforowanie (brak przycięć)
+- ✅ Auto-reconnect przy problemach
+- ✅ Obsługa wielu formatów audio
 
 </td>
 <td>
 
-### 👥 Zarządzanie Pracownikami
-- ✅ Panel zarządzania pracownikami
-- ✅ System awansów i zwolnień
-- ✅ System ostrzeżeń pracowników
-- ✅ Raporty miesięczne z paginacją
+### 🤖 Automatyzacja
+- ✅ Auto-dołączanie gdy ktoś wejdzie
+- ✅ Auto-opuszczanie gdy kanał pusty
+- ✅ Watchdog - automatyczny restart
+- ✅ Health check systemu
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 🎤 Voice Tracking & Analityka
-- ✅ Śledzenie czasu na kanałach voice
-- ✅ Statystyki aktywności głosowej
-- ✅ Heatmapy aktywności
-- ✅ Analiza trendu użytkowania
+### 🎤 Status & Informacje
+- ✅ Status z aktualną piosenką
+- ✅ Aktualizacja tytułu co 15 sekund
+- ✅ Integracja z API radia
+- ✅ Statystyki słuchaczy
 
 </td>
 <td>
 
-### 🎬 Streamy & Multimedia
-- ✅ Panel streamów (Twitch/YouTube/TikTok)
-- ✅ System ogłoszeń społeczności
-- ✅ Integracja streamerów
-- ✅ Galeria zdjęć i fotoreportaż
+### ⚡ Komendy Slash
+- ✅ `/status` - Status bota
+- ✅ `/song` - Aktualna piosenka
+- ✅ `/restart` - Restart streamu
+- ✅ `/join` `/leave` `/ping`
 
 </td>
 </tr>
@@ -78,45 +83,40 @@
 
 <div align="center">
 
-### � Panel Zarządzania Zleceniami
+### 🖥️ Kolorowe logi w konsoli
 
-<img src="screenshots/zlecenia.png" alt="Ticket system" width="700">
+<img src="screenshots/console.png" alt="Console logs" width="700">
 
 <br><br>
 
-### 👥 Bot na Discord w akcji
+### 🎧 Bot na Discord ze statusem piosenki
 
 <img src="screenshots/discord.png" alt="Discord bot" width="400">
 
 <br><br>
 
-### 📈 Raporty i Statystyki
+### 💬 Komendy slash w akcji
 
-<img src="screenshots/raporty.png" alt="Reports" width="500">
+<img src="screenshots/commands.png" alt="Slash commands" width="500">
 
 </div>
 
 <br>
 
-## 🎨 Przykładowe Logi
+## 🎨 Przykładowe logi
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚙️  HEDEN Cargo Bot - Uruchamianie...
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[OK] ✓ Zalogowano jako HEDEN Cargo#1234
-[INFO] Discord.js v14.8.0
-[INFO] Serwer: HEDEN Cargo Sp. z o.o.
-[INFO] MongoDB: Połączone
-[TICKET] 🎫 System ticketów załadowany
-[VOICE] 🎤 Voice tracking aktywny
-[COMMAND] 🎯 Zarejestrowano 42 komendy slash
-[OK] ✓ Bot gotowy do pracy!
-
-[TICKET] 🎫 Nowy ticket #001 - Rekrutacja
-[VOICE] 🔊 Użytkownik 𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻 dołączył (1h 23m)
-[SPEDYCJA] 🚚 Nowe zlecenie #045 - Dostawa Kraków
-[REPORT] 📊 Raport wygenerowany dla marca 2026
+2026-03-06 15:56:43 [SYSTEM] ⚙️ ==================================================
+2026-03-06 15:56:43 [SYSTEM] ⚙️     HEDEN FM Bot - Uruchamianie...
+2026-03-06 15:56:43 [SYSTEM] ⚙️ ==================================================
+2026-03-06 15:56:43 [OK] ✓ Zalogowano jako Heden FM#7471
+2026-03-06 15:56:43 [INFO] discord.py 2.7.1
+2026-03-06 15:56:43 [INFO] Serwer: HEDEN Cargo Sp. z o.o.
+2026-03-06 15:56:43 [MUSIC] 🎵 Teraz gra: Rascal Flatts - Life Is a Highway
+2026-03-06 15:56:43 [OK] ✓ Bot gotowy do pracy!
+2026-03-06 15:57:04 [VOICE] 🔊 Łączę z: 「❄️」𝙲𝙱-19
+2026-03-06 15:57:06 [OK] ✓ Odtwarzanie HEDEN FM rozpoczęte
+2026-03-06 15:58:20 [MUSIC] 🎵 Teraz gra: Clean Bandit - Solo
 ```
 
 <br>
@@ -125,108 +125,21 @@
 
 <div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)](https://docs.aiohttp.org/)
 
 </div>
 
-### Stack Techniczny:
+### Stack technologiczny:
 
-- **Backend:** Node.js 18+ z Discord.js 14
-- **API:** Express.js z CORS i middleware
-- **Baza Danych:** MongoDB 4.4+ (Atlas lub self-hosted)
-- **Voice Tracking:** Integracja audio Discord
-- **HTTP Requests:** Axios (async requests)
-- **Containerization:** Docker & Docker Compose
-
-<br>
-
-## 🚀 Szybki Start
-
-### Wymagania
-- Node.js 18+
-- npm lub yarn
-- MongoDB (Atlas lub lokalnie)
-- Token bota Discord
-- Discord.js 14+
-
-### Instalacja
-
-```bash
-# Klonowanie repozytorium
-git clone https://github.com/WilkorPLYT/HedenCargoWeb.git
-cd HedenCargoWeb
-
-# Instalacja zależności
-npm install
-
-# Konfiguracja
-cp .env.example .env
-# Edytuj .env i dodaj swoje tokeny
-
-# Uruchamianie
-npm start
-```
-
-<br>
-
-## ⚙️ Konfiguracja
-
-### Plik `.env`
-
-```env
-# Discord
-DISCORD_TOKEN=twoj_token_bota
-APPLICATION_ID=id_aplikacji
-GUILD_ID=id_twojego_serwera
-OWNER_ID=twoje_id_discorda
-
-# MongoDB
-MONGODB_URI=mongodb+srv://user:password@cluster.mongodb.net/hedencargo
-
-# Konfiguracja
-PREFIX=$
-PORT=6969
-```
-
-### Plik `config.js`
-
-- **Kanały** - Nazwy kanałów Discord
-- **Role** - Role do zarządzania uprawnieniami
-- **Emoji** - Custom emoji serwera
-- **Streameraom** - Dane streamerów
-- **Uprawnienia** - Dostęp do funkcji
-
-<br>
-
-## 📁 Struktura Projektu
-
-```
-HedenCargoWeb/
-├── 📄 index.js                 # Główny plik bota
-├── 📄 server.js                # Serwer Express
-├── 📄 config.js                # Centralna konfiguracja
-├── 📄 package.json             # Zależności
-├── 📄 .env.example             # Wzorzec zmiennych
-├── 📄 README.md                # Ta dokumentacja
-├── 📄 BOT_COMMANDS.md          # Dokumentacja komend
-├── 📄 Dockerfile               # Docker config
-├── 📁 express_files/
-│   ├── controller.js           # Kontrolery
-│   ├── router.js               # Routery
-│   └── mongo_schemas.js        # Schematy
-├── 📁 src/
-│   ├── commands/               # Komendy bota
-│   ├── events/                 # Event handlery
-│   ├── models/                 # Modele danych
-│   ├── services/               # Usługi
-│   └── utils/                  # Funkcje pomocnicze
-└── 📁 scripts/
-    └── clear_db.js             # Skrypty utility
-```
+- **Backend:** Python 3.12+
+- **Discord API:** discord.py 2.7.1 z obsługą DAVE E2EE
+- **Audio:** FFmpeg z zaawansowanym buforowaniem
+- **HTTP:** aiohttp (async requests)
+- **Hosting:** Kompatybilny z Docker, IVhost, VPS
 
 <br>
 
@@ -234,15 +147,15 @@ HedenCargoWeb/
 
 <div align="center">
 
-### 🎯 Chcesz takiego bota dla swojej firmy?
+### 🎯 Chcesz takiego bota dla swojej firmy/serwera?
 
 <br>
 
 | Pakiet | Opis |
 |--------|------|
-| 🎫 **Basic** | Bot do ticketów + voice tracking |
-| 🚗 **Professional** | Pełny system zarządzania + reporting |
-| 🏢 **Enterprise** | Wsparcie + hosting + utrzymanie |
+| 🎵 **Basic** | Bot radiowy z podstawowymi funkcjami |
+| 🎨 **Custom** | Dostosowany do Twoich potrzeb |
+| 🏢 **Enterprise** | Pełne wsparcie + hosting + utrzymanie |
 
 <br>
 
@@ -256,7 +169,7 @@ HedenCargoWeb/
 
 <div align="center">
 
-### Zainteresowany? Napisz do nas!
+### Zainteresowany? Napisz do mnie!
 
 <br>
 
@@ -269,7 +182,6 @@ HedenCargoWeb/
 |-----------|---------|
 | 💬 **Discord** | [𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻](https://discord.com/users/446740090757316608) (ID: `446740090757316608`) |
 | 🐙 **GitHub** | [@WilkorPLYT](https://github.com/WilkorPLYT) |
-| 👨‍💻 **Co-Developer** | [@daniekdan](https://github.com/daniekdan) - Daniel [Daniek.] |
 
 </div>
 
@@ -279,10 +191,11 @@ HedenCargoWeb/
 
 <div align="center">
 
-**MIT License - Wolne użytkowanie w projektach prywatnych i komercyjnych**
+**🔒 Closed Source - Wszelkie prawa zastrzeżone**
 
-Autor: WilkorPLYT & Daniel [Daniek.]
-Copyright © 2024-2026 HEDEN Cargo Sp. z o.o.
+Ten projekt jest własnością autora. Kod źródłowy nie jest publicznie dostępny.
+
+Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
 </div>
 
@@ -292,20 +205,19 @@ Copyright © 2024-2026 HEDEN Cargo Sp. z o.o.
 
 <br>
 
-## 👨‍💻 Autorzy
+## 👨‍💻 Autor
 
 <div align="center">
 
-[![Stworzony przez](https://img.shields.io/badge/Stworzony%20przez-WilkorPLYT%20%26%20Daniel-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
+[![Stworzony przez](https://img.shields.io/badge/Stworzony%20przez-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
 
 <br>
 
-Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** & **Daniel [Daniek.]** dla **HEDEN Cargo Sp. z o.o.**
+Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** dla **HEDEN Cargo Sp. z o.o.**
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilkorPLYT)
-[![GitHub](https://img.shields.io/badge/GitHub-daniekdan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniekdan)
 [![Discord](https://img.shields.io/badge/Discord-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608)
 
 <br>
