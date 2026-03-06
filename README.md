@@ -89,7 +89,7 @@ Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 
 <br><br>
 
-### 🎧 Bot na Discord ze statusem piosenki
+### 🎧 Bot Discord ze statusem piosenki
 
 <img src="screenshots/discord.png" alt="Discord bot" width="400">
 
