@@ -15,7 +15,7 @@
 
 [✨ Funkcje](#-funkcje) •
 [📸 Screenshots](#-screenshots) •
-[🛠️ Technologie](#️-technologie) •
+[🛠️ Technologie](#%EF%B8%8F-technologie) •
 [📞 Kontakt](#-kontakt)
 
 <br>
@@ -109,13 +109,13 @@ Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 2026-03-06 15:56:43 [SYSTEM] ⚙️ ==================================================
 2026-03-06 15:56:43 [SYSTEM] ⚙️     HEDEN FM Bot - Uruchamianie...
 2026-03-06 15:56:43 [SYSTEM] ⚙️ ==================================================
-2026-03-06 15:56:43 [OK] ✓ Zalogowano jako Heden FM#7471
+2026-03-06 15:56:43 [OK] Zalogowano jako Heden FM#7471
 2026-03-06 15:56:43 [INFO] discord.py 2.7.1
 2026-03-06 15:56:43 [INFO] Serwer: HEDEN Cargo Sp. z o.o.
 2026-03-06 15:56:43 [MUSIC] 🎵 Teraz gra: Rascal Flatts - Life Is a Highway
-2026-03-06 15:56:43 [OK] ✓ Bot gotowy do pracy!
-2026-03-06 15:57:04 [VOICE] 🔊 Łączę z: 「❄️」𝙲𝙱-19
-2026-03-06 15:57:06 [OK] ✓ Odtwarzanie HEDEN FM rozpoczęte
+2026-03-06 15:56:43 [OK] Bot gotowy do pracy!
+2026-03-06 15:57:04 [VOICE] 🔊 Lacze z: 「❄️」𝙲𝙱-19
+2026-03-06 15:57:06 [OK] Odtwarzanie HEDEN FM rozpoczete
 2026-03-06 15:58:20 [MUSIC] 🎵 Teraz gra: Clean Bandit - Solo
 ```
 
@@ -126,20 +126,21 @@ Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)](https://docs.aiohttp.org/)
 
 </div>
 
-### Stack technologiczny:
+<br>
 
-- **Backend:** Python 3.12+
-- **Discord API:** discord.py 2.7.1 z obsługą DAVE E2EE
-- **Audio:** FFmpeg z zaawansowanym buforowaniem
-- **HTTP:** aiohttp (async requests)
-- **Hosting:** Kompatybilny z Docker, IVhost, VPS
+| Technologia | Opis |
+|-------------|------|
+| **Python 3.12+** | Backend aplikacji |
+| **discord.py 2.7.1** | Obsługa Discord API z DAVE E2EE |
+| **FFmpeg** | Przetwarzanie i buforowanie audio |
+| **aiohttp** | Asynchroniczne zapytania HTTP |
+| **Docker** | Konteneryzacja i hosting |
 
 <br>
 
@@ -147,7 +148,7 @@ Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 
 <div align="center">
 
-### 🎯 Chcesz takiego bota dla swojej firmy/serwera?
+### 🎯 Chcesz takiego bota dla swojej firmy lub serwera?
 
 <br>
 
@@ -176,13 +177,6 @@ Zainteresowany? [Skontaktuj się ze mną!](#-kontakt)
 [![Discord](https://img.shields.io/badge/Discord-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608)
 [![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilkorPLYT)
 
-<br>
-
-| Platforma | Kontakt |
-|-----------|---------|
-| 💬 **Discord** | [𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻](https://discord.com/users/446740090757316608) (ID: `446740090757316608`) |
-| 🐙 **GitHub** | [@WilkorPLYT](https://github.com/WilkorPLYT) |
-
 </div>
 
 <br>
@@ -203,13 +197,11 @@ Nieautoryzowane kopiowanie, modyfikowanie lub dystrybucja jest zabroniona.
 
 ---
 
-<br>
-
 ## 👨‍💻 Autor
 
 <div align="center">
 
-[![Stworzony przez](https://img.shields.io/badge/Stworzony%20przez-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
+[![Stworzony przez DrWilkor](https://img.shields.io/badge/Stworzony%20przez-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-blueviolet?style=for-the-badge)](https://github.com/WilkorPLYT)
 
 <br>
 
@@ -217,14 +209,7 @@ Stworzony z ❤️ przez **𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻** dla **HEDEN Cargo 
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-WilkorPLYT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilkorPLYT)
-[![Discord](https://img.shields.io/badge/Discord-𝓓𝓻𝓦𝓲𝓵𝓴𝓸𝓻-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/446740090757316608)
-
-<br>
-
 ---
-
-<br>
 
 **⭐ Jeśli podoba Ci się ten projekt, zostaw gwiazdkę! ⭐**
 
